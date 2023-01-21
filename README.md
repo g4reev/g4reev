@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <h1>
-    Welcome!    
-  </h1>
-</div>
-
 ### About Me :
 I am a Backend Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> from Ufa, Russia.
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
