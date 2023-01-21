@@ -1,15 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
-  <div id="badges">
-    <a href="https://t.me/g4reev">
-      <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
-    </a>
-    
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=g4reev&style=flat-square&color=blue" alt=""/>
   <h1>
-    That's cool!
-    
+    Welcome!    
   </h1>
 </div>
 
@@ -40,4 +31,16 @@ I am a Backend Python Developer <img src="https://media.giphy.com/media/KAq5w47R
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PyTest" alt="PyTest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/441/625/png-transparent-gunicorn-hd-logo.png" title="Gunicorn"  alt="Gunicorn" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+  <div id="badges">
+    <a href="https://t.me/g4reev">
+      <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
+    </a>    
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=g4reev&style=flat-square&color=blue" alt=""/>
 </div>
