@@ -21,7 +21,7 @@ I am a Backend Python Developer <img src="https://media.giphy.com/media/KAq5w47R
 
 - :seedling: I completed courses <a href="https://practicum.yandex.ru/backend-developer/">
       <img src="https://yt3.ggpht.com/-pnsqu0xQYwxMhUVq-HZJHf691DEhTlEl1fZvjUtUwJIKMyTqXDBVvK7d2dSjFUTYdHFpTYvAo8=s900-c-k-c0x00ffffff-no-rj" width="30"/>
-    </a> in 2022. 
+    </a> in 2022. I have developed a telegram bot for the <a href="https://greatbaikaltrail.org/"> Baikal volunteer direction</a>, clients for photo and video fixation complexes (NDA), a feedback parser and a telegram bot for a dental clinic.
 
 - :zap: In my free time, I swim & listen music.
 
