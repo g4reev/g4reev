@@ -20,7 +20,7 @@ I am a Backend Python Developer <img src="https://media.giphy.com/media/KAq5w47R
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :seedling: I completed courses in 2022. <a href="https://practicum.yandex.ru/backend-developer/">
-      <img src="https://yt3.ggpht.com/-pnsqu0xQYwxMhUVq-HZJHf691DEhTlEl1fZvjUtUwJIKMyTqXDBVvK7d2dSjFUTYdHFpTYvAo8=s900-c-k-c0x00ffffff-no-rj" width="50"/>
+      <img src="https://yt3.ggpht.com/-pnsqu0xQYwxMhUVq-HZJHf691DEhTlEl1fZvjUtUwJIKMyTqXDBVvK7d2dSjFUTYdHFpTYvAo8=s900-c-k-c0x00ffffff-no-rj" width="30"/>
     </a>
 
 - :zap: In my free time, I swim & listen music.
